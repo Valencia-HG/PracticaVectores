@@ -12,6 +12,7 @@ import java.util.Scanner;
 public class MiOctavoPrograma {
 
     public static void main(String[] args) {
+        // Hello world
         Scanner entrada = new Scanner(System.in);
         int[] ventas = new int[7];
         int valorTotal = 0;
